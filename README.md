@@ -1,4 +1,4 @@
-````markdown
+
 <div align="center">
 
 # 👋 Hey, I'm Rohan Raj
@@ -169,4 +169,3 @@ I believe every project is an opportunity to learn something new and every probl
 **💻 Code • 🚀 Build • 🧠 Learn • 🔥 Grow**
 
 </div>
-```
